@@ -1,2 +1,2 @@
-# Starter project for the weather app
-Clone it to your computer and you can start to develop the weather app!
+# Starter project for the Instagram UI Clone app
+Clone it to your computer and you can start to develop!
