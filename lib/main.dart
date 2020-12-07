@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(WeatherApp());
+void main() => runApp(InstagramApp());
 
-class WeatherApp extends StatelessWidget {
+class InstagramApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
